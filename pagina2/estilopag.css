@@ -37,3 +37,10 @@ em {
     font-style: italic;
 
 }
+
+address{
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+    font-style: italic;
+}
