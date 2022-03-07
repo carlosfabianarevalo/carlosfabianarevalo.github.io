@@ -33,7 +33,12 @@ article{
 }
 
 
-.parrafo2{  
+img{ 
+    margin: 0 30px 40px 0;
+    float: right;
+    left: 100px;
+    width: 240px;
+    height: 300px
+} 
 
-}
    
